@@ -3,11 +3,15 @@
     --gray-secondary: #C0C0C0;
     --button-blue: #167BF7;
     --background-color: #00030C;
+    --font-main: 'Inter';
 }
 
 body {
     background-color: var(--background-color);
     color: var(--white-main);
+    font-family: var(--font-main);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 * {
@@ -23,6 +27,8 @@ body {
 
 .container {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
 
 .container__botao {
@@ -31,4 +37,20 @@ body {
     padding: 1em;
     color: var(--white-main);
     display: block;
+    text-decoration: none;
+}
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--white-main);
+}
+
+.container__aviso {
+    font-size: 12px;
+    color: var(--gray-secondary);
+}
+
+.container__title {
+    font-weight: 700;
+    font-size: 28px;
 }
