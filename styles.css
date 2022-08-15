@@ -4,3 +4,23 @@
     --button-blue: #167BF7;
     --background-color: #00030C;
 }
+
+body {
+    background-color: var(--background-color);
+    color: var(--white-main);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: container;
+}
+
+.container {
+    height: 100vh;
+}
