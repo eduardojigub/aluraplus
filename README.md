@@ -20,5 +20,6 @@ Project developed on the web course www.alura.com.br
 
 ## Gif do projeto:
 <p align="center">
-  <img  src="https://github.com/marianasaraiva/trybe-project-lessons-learned/blob/main/Lessons_learned.gif" alt="Lessons Learned Gif"/>
+  <img  src="https://user-images.githubusercontent.com/47367373/184761147-6d558289-e8c0-431d-8c03-3f245f1e1df7.gif" alt="Lessons Learned Gif"/>
 </p>
+
