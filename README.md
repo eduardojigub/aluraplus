@@ -10,7 +10,7 @@ Project developed on the web course www.alura.com.br
 
 ## What was developed
 
-- A landing page containing the details of the Alura Plus plan was developed.
+- A landing page containing the details of the Alura Plus course was developed.
 
 ## Instructions for viewing the project:
 
